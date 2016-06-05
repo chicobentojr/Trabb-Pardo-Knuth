@@ -12,3 +12,5 @@ foreach item in S
    else
       print result
 ```
+
+based in [Trabb Pardo-Knuth Algorithm](https://pt.wikipedia.org/wiki/Algoritmo_de_Trabb_Pardo-Knuth)
